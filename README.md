@@ -1,1 +1,1 @@
-Учебный сайт: https://disadykov.github.io/green-corp-landing/
+Учебный проект по созданию сайта: https://disadykov.github.io/green-corp-landing/
